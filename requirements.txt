@@ -1,0 +1,15 @@
+scikit-learn
+ipympl
+scipy>1.12.0
+westpa
+mdtraj
+nglview
+networkx
+MDAnalysis
+rich
+wedap
+synd
+lpath-md
+mdance
+pandas
+numpy
