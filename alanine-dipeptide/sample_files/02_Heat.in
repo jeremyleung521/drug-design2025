@@ -22,4 +22,3 @@ Heat
 &wt type='TEMP0', istep1=0, istep2=9000, value1=0.0, value2=300.0 /
 &wt type='TEMP0', istep1=9001, istep2=10000, value1=300.0, value2=300.0 /
 &wt type='END' /
-
