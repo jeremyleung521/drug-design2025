@@ -13,5 +13,5 @@ cd $TMPDIR
 git clone https://github.com/jeremyleung521/drug-design2025
 cd drug-design2025
 python -m pip install -U -r requirements.txt
-cd alanine_dipeptide
+cd alanine-dipeptide
 echo "Current working directory is $PWD"
