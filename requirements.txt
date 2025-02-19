@@ -11,6 +11,7 @@ wedap
 synd
 pandas
 numpy
+mdance
 ipywidgets==8.0.4
 ipykernel==6.25.0
 ipython==8.20.0
